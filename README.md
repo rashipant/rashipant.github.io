@@ -2,4 +2,4 @@ I am an early-career researcher in cognitive neuroscience, and I am interested i
 
 I completed my PhD in July 2024 with Prof. Brigitte Röder at the University of Hamburg, supported by the Hector Fellow Academy, and in collaboration with the LV Prasad Eye Institute. Before that, I completed my Master's degree at Johns Hopkins University with Prof. Brenda Rapp, and worked as a lab manager in Prof. Marina Bedny's laboratory. 
 
-You can view my CV [here](https://github.com/rashipant/rashipant.github.io/blob/main/assets/cv/Pant_Jan_2026.pdf).
+You can view my CV [here](assets/cv/Pant_Jan_2026.pdf).
