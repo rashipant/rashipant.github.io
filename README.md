@@ -1,2 +1,2 @@
-# rashipant.github.io
+# Rashi Pant
 Personal website
