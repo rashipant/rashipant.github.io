@@ -7,3 +7,5 @@ I am an early-career researcher in cognitive neuroscience, and I am interested i
 I completed my PhD in July 2024 with Prof. Brigitte Röder at the University of Hamburg, supported by the Hector Fellow Academy, and in collaboration with the LV Prasad Eye Institute. Before that, I completed my Master's degree at Johns Hopkins University with Prof. Brenda Rapp, and worked as a lab manager in Prof. Marina Bedny's laboratory. 
 
 You can take a look at my CV [here](assets/cv/Pant_Jan_2026.pdf) and download a copy of my dissertation [here](https://ediss.sub.uni-hamburg.de/handle/ediss/11064). My publications are accessible on [Google Scholar](https://scholar.google.com/citations?user=3L4I5YwAAAAJ&hl=en). 
+
+You can contact me at rashi dot pant at uni-hamburg dot de or rashipant at gmail dot com 
