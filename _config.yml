@@ -3,3 +3,5 @@ description: rashi dot pant at uni-hamburg dot de or rashipant at gmail dot com
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+github:
+  is_project_page: false
